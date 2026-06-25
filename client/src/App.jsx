@@ -15,7 +15,7 @@ import ReviewResume from './pages/ReviewResume';
 import { Toaster } from 'react-hot-toast';
 
 const App = () => {
-  // let aman = "unused variable here";
+  let aman = "unused variable here";
 
   return (
     <div>
